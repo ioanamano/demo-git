@@ -8,3 +8,4 @@ def cleanup(string):
     return new_string 
 
 print(cleanup(" text de transformare"))
+print(cleanup("tesT"))
